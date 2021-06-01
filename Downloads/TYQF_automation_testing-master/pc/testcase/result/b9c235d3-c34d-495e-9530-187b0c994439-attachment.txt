@@ -1,0 +1,2 @@
+browser_init session
+loggin_with_no-logged class
